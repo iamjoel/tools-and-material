@@ -13,6 +13,8 @@
 * [Shopify](https://www.shopify.com/) 收费。上手快，无需技术背景。
 * [Shop++](http://www.shopplusplus.co.uk/) Java。
 * [更多](http://dig.tools/kj/) 下的独立网站类目。
+* 平台
+  * [微店](https://www.weidian.com/) 微信开店。 [开放平台](https://web.open.weidian.com/index)。可以试试做个导购平台~
 
 ## 数据爬取
 * 软件

@@ -44,5 +44,8 @@ TODO
 ## ppt
 * [优品PPT](http://www.ypppt.com/)
 
-## 前端插件
-* [我整理的前端插件](https://github.com/iamjoel/front-end-plugins)
+## 前端相关
+* Mock 服务
+  * [Easy Mock](https://github.com/easy-mock/easy-mock) Easy Mock 是一个可视化，并且能快速生成模拟数据的持久化服务。生成随机模拟数据，内置了 Mock.js。依赖 Mongo。支持 [Swagger](https://swagger.io/)。
+* 前端插件
+  * [我整理的前端插件](https://github.com/iamjoel/front-end-plugins)

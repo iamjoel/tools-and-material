@@ -49,6 +49,6 @@ TODO
 * Mock 服务
   * [Easy Mock](https://github.com/easy-mock/easy-mock) Easy Mock 是一个可视化，并且能快速生成模拟数据的持久化服务。生成随机模拟数据，内置了 Mock.js。依赖 Mongo。支持 [Swagger](https://swagger.io/)。
   * [Swagger](https://swagger.io/)
-  * [API blueprint](https://apiblueprint.org/tools.html)
+  * [API blueprint](https://apiblueprint.org/)
 * 前端插件
   * [我整理的前端插件](https://github.com/iamjoel/front-end-plugins)

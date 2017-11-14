@@ -1,8 +1,13 @@
 # 工具
 ## CMS
-* [WordPress](https://wordpress.org/) PHP。
+* [WordPress](https://wordpress.org/) PHP。 新增模块，页面和文章都很简单。有很多插件和皮肤。无需编码。
   * [Coding.net](https://coding.net/help/doc/pages/dpages.html) 也支持部署 Wordpress。
 * [Drupal](https://github.com/drupal/drupal) PHP。
+* [ghost](https://ghost.org/) Node.js 收费。
+* [Keystonejs](http://keystonejs.com) Node.js。需要写页面。
+* [Apostrophe](apostrophecms) Node.js 需要写页面。比较漂亮。
+* [What is the best Node.js CMS? Why?](https://www.quora.com/What-is-the-best-Node-js-CMS-Why)
+* [Exploring Different CMS Solutions Built on Node.js](https://www.sitepoint.com/exploring-different-cms-solutions-built-on-node-js/)
 
 ## CRM
 TODO

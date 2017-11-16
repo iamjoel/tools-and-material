@@ -1,7 +1,6 @@
 # 工具
 ## CMS
-* [WordPress](https://wordpress.org/) PHP。 新增模块，页面和文章都很简单。有很多插件和皮肤。无需编码。
-  * [Coding.net](https://coding.net/help/doc/pages/dpages.html) 也支持部署 Wordpress。
+* [WordPress](https://wordpress.org/) PHP。 做博客，官网，电商等等。 [我的整理](wordpress)
 * [Drupal](https://github.com/drupal/drupal) PHP。
 * [ghost](https://ghost.org/) Node.js 收费。
 * [Keystonejs](http://keystonejs.com) Node.js。需要写页面。

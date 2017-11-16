@@ -17,12 +17,12 @@
 * [有哪些实用的WordPress 插件值得推荐？](https://www.zhihu.com/question/22864602)
 * [25+ 必备WordPress插件列表](http://webres.wang/25-must-have-wordpress-plugins/)
 
-## 自己开发
-* [Themosis](https://framework.themosis.com/) A WordPress framework
-* [如何合并两个WordPress主题？](https://www.zhihu.com/question/20576104)
-
 ## 工具
 * [WhatRuns](http://chromecj.com/web-development/2017-10/832.html) 可以查看用当前网页用的 Wordpress 的主题和插件。
+
+## 开发资源
+* [Themosis](https://framework.themosis.com/) A WordPress framework
+* [如何合并两个WordPress主题？](https://www.zhihu.com/question/20576104)
 
 ## 其他
 * [用 WordPress 和主题模板做网站](https://mp.weixin.qq.com/s/8Ansqf8Q1ibdfHKX7ddSzA) 内容包括：WordPress 做企业站要花多少钱？要做多久？怎么挑主机？怎么挑以及买主题？主题升级等等内容。

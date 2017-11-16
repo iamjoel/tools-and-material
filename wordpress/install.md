@@ -3,11 +3,7 @@
 
 在 Mac 上。 wordpress 需要的环境：MySql,PHP和 apache 可以用[XAMPP](https://www.apachefriends.org/index.html)（Apache + MariaDB + PHP + Perl） 来弄(自己一个个配置很痛苦。。。)。
 
-在 Coding 上安装很简单。只要开启动态服务服务，改改 wp-config.php 中关于数据库的配置文件即可。数据库的信息，coding 会生成一个。
-
-## 用户角色
-subscribe
-
+在 Coding 上安装很简单。只要开启动态服务服务，改改 wp-config.php 中关于数据库的配置文件即可。数据库的信息，coding 会生成一个。 见[这里](https://coding.net/help/doc/pages/dpages.html)
 
 ## XAMPP 是一些设置
 ### 让本机能访问 phpMyAdmin 的做法

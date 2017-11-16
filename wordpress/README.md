@@ -1,64 +1,35 @@
 # Wordpress
-[中文官网](https://cn.wordpress.org/) [文档](https://codex.wordpress.org/zh-cn:Main_Page)
+用 [Wordpress](https://cn.wordpress.org/) 可以做到不编码做 CMS(内容管理系统) 类的网站。Wordpress 比较适合做博客，公司或个人官网之类的。也有主题将 Wordpress 改成商城的~
 
+相比我调研过的其他CMS， Wordpress 是对非程序员最友好的。如果没有太多的个性化要求，只要选个合适的主题，改改内容，一个网站就做好了。
 
-在 Mac 上。 wordpress 需要的环境：MySql,PHP和 apache 可以用[XAMPP](https://www.apachefriends.org/index.html)（Apache + MariaDB + PHP + Perl） 来弄(自己一个个配置很痛苦。。。)。
+## 环境
+搭建 Wordpress 需要的环境（PHP，MySQL，Apache httpd 或 Nginx）有点麻烦。安装 Wordpress 本身比较容易。
 
-## 用户角色
-subscribe
+安装好 Wordpress 后，坑不多。主要对一些文件设置读写的权限，来允许上传图片，更改主题之类的。
 
+## 主题
+搭建好 Wordpress 后，网站就做好了。当然，网站的外观是默认主题的，内容也是默认内容。
 
+不同主题支持不同的外观修改。修改一般包括：改些文字内容，修改图片，增加菜单，改改元素的位置之类的。如果改网站的结构，比如，加个完全自定制的页面，而且页面会用到发布的文章，要么换一个支持的主题，要么自己编码。
 
-## XAMPP 是一些设置
-### 让本机能访问 phpMyAdmin 的做法
-点XAMPP 的 volumn 下的explore 。编辑 `/opt/lampp/etc/extra/httpd-xampp.conf` 。将
-```
-<Directory "/opt/lampp/phpmyadmin">
-  AllowOverride AuthConfig
-  Require local
-```
+在不想自己编码的情况下，做不同类似的网站，就要选不同的主题。不同的主题决定了网站的结构：包括
+* 首页是怎样的;首页的哪些内容可以改。
+* 新增的页面，可以选择怎样的模板。
+* 其他页面。
 
-改成
+## 插件
+通过安装插件，可以增强 wordpress 的能力。
 
-```
-<Directory "/opt/lampp/phpmyadmin">
-  AllowOverride AuthConfig
-  Require all granted
-```
-
-## 安装 wordpress
-0 创建数据库 wordpress
-
-1 将 wordpress 下的 wp-config-sample.php 重命名为wp-config.php 。修改里面的 DB_NAME 等一系列数据库配置。
-
-2 将 wordprss 移动到 (点XAMPP 的 volumn 下的explore) htdocs 下。 
-
-3 访问 `http://192.168.64.2/wordpress/wp-admin/install.php`
-
-4 输入网站的一些信息，就安装完成拉~
-
-## 权限设置
-上传图片之类，需要设置权限
-```
-cd xxx/htdocs/wordpress/
-cd wp-content
-chmod 777 .
-chmod 777 ./plugins
-chmod 777 ./themes
-chmod 777 ./uploads
-```
-
-## 安装主题会要输入ftp 帐号密码的解决方案
-在 wp-config.php 文件中添加下面的代码：
-```
-define('FS_METHOD', 'direct');
-define('FS_CHMOD_DIR', 0777);
-define('FS_CHMOD_FILE', 0777);
-```
-
-## 页面模板
-有些主题会有页面模板。
-
-
-
+## 其他功能
+Wordpress 主要有如下的通用的功能：
+* 页面的增删改查
+。
+* 文章的增删改查。
+* 分类的增删改查。
+* 标签的增删改查。
+* 用户的增删改查。用户有5种角色。
+* 评论的增删改查。
+* 资源的增删改查。资源包括图片，视频，音频等。
+* 导出和备份内容。
 

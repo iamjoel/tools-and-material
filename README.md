@@ -9,7 +9,8 @@
 * [Exploring Different CMS Solutions Built on Node.js](https://www.sitepoint.com/exploring-different-cms-solutions-built-on-node-js/)
 
 ## CRM
-TODO
+* [odoo](https://www.odoo.com/) All-in-one management software. 
+Beautiful. Easy-to-use.
 
 ## 论坛系统
 * [Discuz](http://www.discuz.net/forum.php) PHP。
@@ -48,6 +49,15 @@ TODO
 
 ## ppt
 * [优品PPT](http://www.ypppt.com/)
+
+## 公司工作流工具
+* 文档
+  * 印象笔记
+  * [石墨文档](https://shimo.im/)
+* 原型图
+  * 墨刀
+* 知识库
+  * [Confluence](https://www.atlassian.com/software/confluence)
 
 ## 前端相关
 * Mock 服务

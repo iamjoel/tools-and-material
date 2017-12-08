@@ -48,7 +48,7 @@ Beautiful. Easy-to-use.
 * https://worditout.com/word-cloud/create
 
 ## ppt
-* [优品PPT](http://www.ypppt.com/)
+* [优品PPT 模板网站](http://www.ypppt.com/)
 
 ## 公司工作流工具
 * 文档
@@ -56,6 +56,13 @@ Beautiful. Easy-to-use.
   * [石墨文档](https://shimo.im/)
 * 原型图
   * 墨刀
+* 代码管理
+  * [Coding.net](https://coding.net)
+* 协作
+  * [Slack](https://yedian.slack.com/) 
+  * [Teambition](https://www.teambition.com/)
+  * [Trello](https://trello.com/) 看板类型的。
+
 * 知识库
   * [Confluence](https://www.atlassian.com/software/confluence)
 
@@ -64,5 +71,7 @@ Beautiful. Easy-to-use.
   * [Easy Mock](https://github.com/easy-mock/easy-mock) Easy Mock 是一个可视化，并且能快速生成模拟数据的持久化服务。生成随机模拟数据，内置了 Mock.js。依赖 Mongo。支持 [Swagger](https://swagger.io/)。
   * [Swagger](https://swagger.io/)
   * [API blueprint](https://apiblueprint.org/)
+  * [JSONPlaceholder](https://jsonplaceholder.typicode.com/) 固定的几个资源 GET，POST，DELETE，PUT。
+  * [JSON Server](https://github.com/typicode/json-server) 用 JSON 文件做为数据源。 可以试试线上的服务[My JSON Server](https://my-json-server.typicode.com/)。
 * 前端插件
   * [我整理的前端插件](https://github.com/iamjoel/front-end-plugins)

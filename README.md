@@ -66,7 +66,28 @@ Beautiful. Easy-to-use.
 * 知识库
   * [Confluence](https://www.atlassian.com/software/confluence)
 
+## 素材
+* 图片
+  * [Unsplash](https://unsplash.com/) 提供可免費使用的高质量照片网站
+  * [Foodies Feed](https://foodiesfeed.com/crunchy-sunny-side-eggs-bacon/) 以「食物」为主题的免费摄影照片图库
+  * [picjumbo](https://picjumbo.com/)
+  * [streetwill](http://streetwill.co/)
+  * [gratisography](http://www.gratisography.com/)
+  * [Subtle Patterns](http://subtlepatterns.com/) 带纹理的背景图片
+* 图标
+  * [阿里巴巴矢量图标库](http://www.iconfont.cn/)
+* 网站 ICON
+  * [findIcons](http://findicons.com/ ) icon搜索引擎
+  * [在线icon制作](http://www.xiconeditor.com/)
+  * [favicon](http://www.favicon.cc/) 做网站icon
+* 字体
+  * [有字库](www.youziku.com) 中文web字库
+  * [字体（视巨网）](http://www.ssjee.com)
+
 ## 前端相关
+* HTTP
+  * [Postman](https://www.getpostman.com/) 开发调试 API 用。
+  * [Fiddler](https://www.telerik.com/fiddler) 修改线上 Bug。用 Auto Response 来用本地文件替换线上文件。
 * Mock 服务
   * [Easy Mock](https://github.com/easy-mock/easy-mock) Easy Mock 是一个可视化，并且能快速生成模拟数据的持久化服务。生成随机模拟数据，内置了 Mock.js。依赖 Mongo。支持 [Swagger](https://swagger.io/)。
   * [Swagger](https://swagger.io/)

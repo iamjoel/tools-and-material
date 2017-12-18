@@ -44,6 +44,9 @@ Beautiful. Easy-to-use.
 ## 分词
 * [NodeJieba](https://github.com/yanyiwu/nodejieba) NodeJieba是"结巴"中文分词的 Node.js 版本实现
 
+## 数据挖掘和数据分析工具
+* [Scikit-Learn](http://sklearn.apachecn.org/) 简单高效的数据挖掘和数据分析工具。
+
 ## 云标签生成工具
 * https://worditout.com/word-cloud/create
 
@@ -96,3 +99,7 @@ Beautiful. Easy-to-use.
   * [JSON Server](https://github.com/typicode/json-server) 用 JSON 文件做为数据源。 可以试试线上的服务[My JSON Server](https://my-json-server.typicode.com/)。
 * 前端插件
   * [我整理的前端插件](https://github.com/iamjoel/front-end-plugins)
+
+
+## 日常
+* [芝麻二维码收款](https://www.hotapp.cn/shouqian) 合并支付宝和微信的码。原理就是生成一个第三方的地址，当码被扫时，会调用第三方地址，并加些参数。通过参数来判断是被支付宝还是微信扫了。

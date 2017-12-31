@@ -50,6 +50,46 @@ Beautiful. Easy-to-use.
 ## 云标签生成工具
 * https://worditout.com/word-cloud/create
 
+## 发现需求
+* 关键字联想工具
+  * [百度下拉词（联想词）批量查询系统（电脑端）](http://www.zhujicp.com/tools/baiduxiala/web/)
+  * [手机百度下拉词批量查询系统（移动端](http://www.zhujicp.com/tools/baiduxiala/wap/)
+
+## 竞品分析
+* [SimilarWeb](https://www.similarweb.com/) 查看网站的排名，流量来源统计，网站的跳出率，搜索关键字，竞品等。有 Chrome 插件。
+* [爱站](http://www.aizhan.com/) 网站排名，域名查询，关键字优化,关键字挖掘等等。
+* [5188](http://www.5118.com/) 轻松掌控网站运营所需的关键数据。
+* [Wappalyzer](https://wappalyzer.com/) 查看网站用什么技术做的（如 WordPress（CMS框架），jQuery（前端框架），IIS（服务器操作系统））。有 Chrome 插件。
+
+## 指数
+* [大数据导航](http://hao.199it.com/)
+* [阿里指数](https://index.1688.com/) 最权威专业的行业价格、供应、采购趋势分析
+* [百度指数](http://index.baidu.com/)
+* 友盟指数（查询机型硬件和软件操作系统）（http://umindex.com）
+* 淘宝指数(http://shu.taobao.com/)
+* 微指数（微博指数http://data.weibo.com/index）
+* 新媒体排行（http://www.newrank.cn/）新榜的微信公众号的数据是
+* 新媒体指数（http://www.gsdata.cn/）
+
+## 了解企业
+* [天眼查](https://www.tianyancha.com/)
+* [企查查](http://www.qichacha.com/)
+* [看准网](http://www.kanzhun.com/)
+
+## 自媒体
+* 头条号
+* [企鹅号](https://om.qq.com/userAuth/index) 内容会出现在腾讯的相关产品。
+* [大鱼号](https://mp.dayu.com/) 
+大鱼号是阿里文娱体系为内容创作者提供的统一账号。 UC 做的。
+* [一点号](http://www.yidianzixun.com/)
+* 百家号
+* 搜狐公众平台
+* 知乎专栏
+* 简书
+* 网易号
+* [微博自媒体](http://me.weibo.com/)
+* 更多见 [大鱼搜](http://meiti.wiki/) 北邮做的。
+
 ## ppt
 * [优品PPT 模板网站](http://www.ypppt.com/)
 
@@ -99,7 +139,6 @@ Beautiful. Easy-to-use.
   * [JSON Server](https://github.com/typicode/json-server) 用 JSON 文件做为数据源。 可以试试线上的服务[My JSON Server](https://my-json-server.typicode.com/)。
 * 前端插件
   * [我整理的前端插件](https://github.com/iamjoel/front-end-plugins)
-
 
 ## 日常
 * [芝麻二维码收款](https://www.hotapp.cn/shouqian) 合并支付宝和微信的码。原理就是生成一个第三方的地址，当码被扫时，会调用第三方地址，并加些参数。通过参数来判断是被支付宝还是微信扫了。

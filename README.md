@@ -38,6 +38,11 @@ Beautiful. Easy-to-use.
   * [如何入门 Python 爬虫？](https://www.zhihu.com/question/20899988)
   * [gooseeker，火车头，八爪鱼三者各有什么优劣？](https://www.zhihu.com/question/36978537)
 
+## No Backend
+* [Firebase](https://firebase.google.com/) 支持数据存储(Database)，文件存储，用户分析等功能。Google 出的。在国内被墙了。
+* [野狗](https://docs.wilddog.com/sync/Web/index.html) 实时通信引擎用法和功能和 Firebase 的数据存储相似。
+* [Leancloud](https://leancloud.cn/) 包括云存储、数据分析、用户关系、消息推送、即时通信等现代应用基础模块，满足移动开发所有需求。
+
 ## 验证码识别
 * [Tesseract](https://github.com/tesseract-ocr/tesseract)
   
@@ -53,7 +58,7 @@ Beautiful. Easy-to-use.
 ## 发现需求
 * 关键字联想工具
   * [百度下拉词（联想词）批量查询系统（电脑端）](http://www.zhujicp.com/tools/baiduxiala/web/)
-  * [手机百度下拉词批量查询系统（移动端](http://www.zhujicp.com/tools/baiduxiala/wap/)
+  * [手机百度下拉词批量查询系统（移动端）](http://www.zhujicp.com/tools/baiduxiala/wap/)
 
 ## 竞品分析
 * [SimilarWeb](https://www.similarweb.com/) 查看网站的排名，流量来源统计，网站的跳出率，搜索关键字，竞品等。有 Chrome 插件。
@@ -105,7 +110,9 @@ Beautiful. Easy-to-use.
   * [Slack](https://yedian.slack.com/) 
   * [Teambition](https://www.teambition.com/)
   * [Trello](https://trello.com/) 看板类型的。
-
+  * Jira
+  * 禅道
+  * Redmine
 * 知识库
   * [Confluence](https://www.atlassian.com/software/confluence)
 
@@ -139,6 +146,7 @@ Beautiful. Easy-to-use.
   * [JSON Server](https://github.com/typicode/json-server) 用 JSON 文件做为数据源。 可以试试线上的服务[My JSON Server](https://my-json-server.typicode.com/)。
 * 前端插件
   * [我整理的前端插件](https://github.com/iamjoel/front-end-plugins)
+* [Chrome 拓展非翻 墙地址](https://chrome-extension-downloader.com/)
 
 ## 日常
 * [芝麻二维码收款](https://www.hotapp.cn/shouqian) 合并支付宝和微信的码。原理就是生成一个第三方的地址，当码被扫时，会调用第三方地址，并加些参数。通过参数来判断是被支付宝还是微信扫了。

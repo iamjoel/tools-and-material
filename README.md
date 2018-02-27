@@ -148,5 +148,10 @@ Beautiful. Easy-to-use.
   * [我整理的前端插件](https://github.com/iamjoel/front-end-plugins)
 * [Chrome 拓展非翻 墙地址](https://chrome-extension-downloader.com/)
 
+## 兼职机会
+* [实现网](https://shixian.com/)
+* [一早一晚](http://yizaoyiwan.com/) 远程工作。
+* [缘创派](http://www.ycpai.com/) 项目合作。
+
 ## 日常
 * [芝麻二维码收款](https://www.hotapp.cn/shouqian) 合并支付宝和微信的码。原理就是生成一个第三方的地址，当码被扫时，会调用第三方地址，并加些参数。通过参数来判断是被支付宝还是微信扫了。

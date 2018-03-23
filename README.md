@@ -56,13 +56,17 @@ Beautiful. Easy-to-use.
 * https://worditout.com/word-cloud/create
 
 ## 发现需求
-* 关键字联想工具
+* 关键字联想/挖掘工具
+  * [百度关键字挖掘](http://s.tool.chinaz.com/baidu/words.aspx)
   * [百度下拉词（联想词）批量查询系统（电脑端）](http://www.zhujicp.com/tools/baiduxiala/web/)
   * [手机百度下拉词批量查询系统（移动端）](http://www.zhujicp.com/tools/baiduxiala/wap/)
+  
+* 通过指数来知道一个大势。
 
 ## 竞品分析
 * [SimilarWeb](https://www.similarweb.com/) 查看网站的排名，流量来源统计，网站的跳出率，搜索关键字，竞品等。有 Chrome 插件。
 * [爱站](http://www.aizhan.com/) 网站排名，域名查询，关键字优化,关键字挖掘等等。
+* [chinaZ 站长工具](http://s.tool.chinaz.com/same) 类似爱站。
 * [5188](http://www.5118.com/) 轻松掌控网站运营所需的关键数据。
 * [Wappalyzer](https://wappalyzer.com/) 查看网站用什么技术做的（如 WordPress（CMS框架），jQuery（前端框架），IIS（服务器操作系统））。有 Chrome 插件。
 

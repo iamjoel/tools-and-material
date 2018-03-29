@@ -162,3 +162,6 @@ Beautiful. Easy-to-use.
 
 ## 日常
 * [芝麻二维码收款](https://www.hotapp.cn/shouqian) 合并支付宝和微信的码。原理就是生成一个第三方的地址，当码被扫时，会调用第三方地址，并加些参数。通过参数来判断是被支付宝还是微信扫了。
+
+## 其他
+* [经纬度查询工具](http://www.gpsspg.com/maps.htm)

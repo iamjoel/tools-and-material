@@ -5,6 +5,7 @@
 * [ghost](https://ghost.org/) Node.js 收费。
 * [Keystonejs](http://keystonejs.com) Node.js。需要写页面。
 * [Apostrophe](apostrophecms) Node.js 需要写页面。比较漂亮。
+* [Strapi](https://strapi.io/) Node.js 无头CMS（只维护数据，提供数据操作的 API 接口 和权限）。代码生成工具很强大。
 * [What is the best Node.js CMS? Why?](https://www.quora.com/What-is-the-best-Node-js-CMS-Why)
 * [Exploring Different CMS Solutions Built on Node.js](https://www.sitepoint.com/exploring-different-cms-solutions-built-on-node-js/)
 

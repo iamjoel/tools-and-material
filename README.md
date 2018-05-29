@@ -100,6 +100,11 @@ Beautiful. Easy-to-use.
 * [微博自媒体](http://me.weibo.com/)
 * 更多见 [大鱼搜](http://meiti.wiki/) 北邮做的。
 
+## 品牌设计/策略/管理
+* [奥美](http://www.ogilvy.com.cn/)
+
+* [英诺](http://www.innoab.com/) 张家港的一家公司。
+
 ## ppt
 * [优品PPT 模板网站](http://www.ypppt.com/)
 
@@ -128,6 +133,7 @@ Beautiful. Easy-to-use.
 * 图片
   * [Unsplash](https://unsplash.com/) 提供可免費使用的高质量照片网站
   * [Foodies Feed](https://foodiesfeed.com/crunchy-sunny-side-eggs-bacon/) 以「食物」为主题的免费摄影照片图库
+  * [Cool Backgrounds](https://coolbackgrounds.io/) 生成很酷的背景图。
   * [picjumbo](https://picjumbo.com/)
   * [streetwill](http://streetwill.co/)
   * [gratisography](http://www.gratisography.com/)

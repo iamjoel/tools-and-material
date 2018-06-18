@@ -137,7 +137,7 @@ Beautiful. Easy-to-use.
 * 知识库
   * [Confluence](https://www.atlassian.com/software/confluence)
 
-## 素材
+## 设计&素材
 * 模板网站
   * [妹子UI 模板中心](http://tpl.amazeui.org/)
   * [模板之家](http://www.cssmoban.com/)
@@ -149,6 +149,7 @@ Beautiful. Easy-to-use.
   * [streetwill](http://streetwill.co/)
   * [gratisography](http://www.gratisography.com/)
   * [Subtle Patterns](http://subtlepatterns.com/) 带纹理的背景图片
+  * [VEER](https://www.veer.com/) 一家免版税、国际化的图片提供商
 * 图标
   * [阿里巴巴矢量图标库](http://www.iconfont.cn/)
 * 网站 ICON
@@ -162,6 +163,9 @@ Beautiful. Easy-to-use.
   * [Coolors](https://coolors.co/) 选择一种颜色，自动配色。支持提取图片上的颜色。
   * [BrandColors](https://brandcolors.net/) 总结各个企业在用的配色
   * [Flat UI Color Picker](http://www.flatuicolorpicker.com/) Flat Design必不可少，颜色自动分类
+* 在线做图设计工具
+  * [创客贴](https://www.chuangkit.com/) 极简的平面设计工具。支持Banner、公众号首图、海报、简历、传单、折页、易拉宝等60多个场景，上万个模板。
+  * [Fotor懒设计](https://www.fotor.com.cn/)
 
 ## 前端相关
 * HTTP

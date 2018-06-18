@@ -163,7 +163,7 @@ Beautiful. Easy-to-use.
   * [Coolors](https://coolors.co/) 选择一种颜色，自动配色。支持提取图片上的颜色。
   * [BrandColors](https://brandcolors.net/) 总结各个企业在用的配色
   * [Flat UI Color Picker](http://www.flatuicolorpicker.com/) Flat Design必不可少，颜色自动分类
-* 在线做图设计工具
+* 图片制作工具
   * [创客贴](https://www.chuangkit.com/) 极简的平面设计工具。支持Banner、公众号首图、海报、简历、传单、折页、易拉宝等60多个场景，上万个模板。
   * [Fotor懒设计](https://www.fotor.com.cn/)
 

@@ -114,7 +114,6 @@ Beautiful. Easy-to-use.
 
 ## 品牌设计/策略/管理
 * [奥美](http://www.ogilvy.com.cn/)
-
 * [英诺](http://www.innoab.com/) 张家港的一家公司。
 
 ## ppt
@@ -159,6 +158,10 @@ Beautiful. Easy-to-use.
 * 字体
   * [有字库](www.youziku.com) 中文web字库
   * [字体（视巨网）](http://www.ssjee.com)
+* 配色
+  * [Coolors](https://coolors.co/) 选择一种颜色，自动配色。支持提取图片上的颜色。
+  * [BrandColors](https://brandcolors.net/) 总结各个企业在用的配色
+  * [Flat UI Color Picker](http://www.flatuicolorpicker.com/) Flat Design必不可少，颜色自动分类
 
 ## 前端相关
 * HTTP

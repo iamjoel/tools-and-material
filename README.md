@@ -63,7 +63,8 @@ Beautiful. Easy-to-use.
 * [NodeJieba](https://github.com/yanyiwu/nodejieba) NodeJieba是"结巴"中文分词的 Node.js 版本实现
 
 ## 数据挖掘和数据分析工具
-* [Scikit-Learn](http://sklearn.apachecn.org/) 简单高效的数据挖掘和数据分析工具。
+* [Scikit-Learn](http://sklearn.apachecn.org/) 简单高效的数据挖掘和数据分析工具。开源。
+* [BDP 个人版](https://me.bdp.cn/home.html) 数据分析神奇。
 
 ## 云标签生成工具
 * https://worditout.com/word-cloud/create

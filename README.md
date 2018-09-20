@@ -182,6 +182,9 @@ Beautiful. Easy-to-use.
   * [我整理的前端插件](https://github.com/iamjoel/front-end-plugins)
 * [Chrome 拓展非翻 墙地址](https://chrome-extension-downloader.com/)
 
+## 微信公众号编辑器
+* [秀米](https://xiumi.us/#/)
+
 ## 兼职机会
 * [实现网](https://shixian.com/)
 * [一早一晚](http://yizaoyiwan.com/) 远程工作。

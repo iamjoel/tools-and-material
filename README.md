@@ -62,6 +62,9 @@ Beautiful. Easy-to-use.
 ## 分词
 * [NodeJieba](https://github.com/yanyiwu/nodejieba) NodeJieba是"结巴"中文分词的 Node.js 版本实现
 
+## 语音合成(TTS: text to speech)
+* [say.js](https://github.com/Marak/say.js) [demo](tts/sayjs) 用的是 Mac 自带的语音 Node.js。
+
 ## 数据挖掘和数据分析工具
 * [Scikit-Learn](http://sklearn.apachecn.org/) 简单高效的数据挖掘和数据分析工具。开源。
 * [BDP 个人版](https://me.bdp.cn/home.html) 数据分析神奇。

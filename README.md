@@ -63,6 +63,7 @@ Beautiful. Easy-to-use.
 * [NodeJieba](https://github.com/yanyiwu/nodejieba) NodeJieba是"结巴"中文分词的 Node.js 版本实现
 
 ## 语音合成(TTS: text to speech)
+* [Baidu TTS](https://github.com/Baidu-AIP/speech-demo/tree/master/rest-api-tts/bash_shell)
 * [say.js](https://github.com/Marak/say.js) [demo](tts/sayjs) 用的是 Mac 自带的语音 Node.js。
 
 ## 数据挖掘和数据分析工具

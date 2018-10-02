@@ -64,6 +64,7 @@ Beautiful. Easy-to-use.
 
 ## 语音合成(TTS: text to speech)
 * [Baidu TTS](https://github.com/Baidu-AIP/speech-demo/tree/master/rest-api-tts/bash_shell)
+* [科大讯飞](https://doc.xfyun.cn/rest_api/%E8%AF%AD%E9%9F%B3%E5%90%88%E6%88%90.html)
 * [say.js](https://github.com/Marak/say.js) [demo](tts/sayjs) 用的是 Mac 自带的语音 Node.js。
 
 ## 数据挖掘和数据分析工具

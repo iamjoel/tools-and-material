@@ -104,6 +104,11 @@ Beautiful. Easy-to-use.
 * [企查查](http://www.qichacha.com/)
 * [看准网](http://www.kanzhun.com/)
 
+## 了解人
+* 性格测试
+  * [PDP动物性格测试](http://types.yuzeli.com/survey/pdp30) 老虎，孔雀，考拉，猫头鹰，变色龙。
+  * [FPA乐嘉性格色彩测试](http://types.yuzeli.com/survey/fpa30)
+
 ## 自媒体
 * 头条号
 * [企鹅号](https://om.qq.com/userAuth/index) 内容会出现在腾讯的相关产品。

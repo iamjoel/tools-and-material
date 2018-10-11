@@ -193,7 +193,8 @@ Beautiful. Easy-to-use.
 * [Chrome 拓展非翻 墙地址](https://chrome-extension-downloader.com/)
 
 ## 微信公众号编辑器
-* [秀米](https://xiumi.us/#/)
+* [秀米](https://xiumi.us/#/) 富文本。
+* [公众号 Phodal 专用编辑器](http://md.phodal.com/) Markdown。
 
 ## 兼职机会
 * [实现网](https://shixian.com/)

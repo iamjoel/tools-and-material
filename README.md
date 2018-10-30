@@ -56,6 +56,9 @@ Beautiful. Easy-to-use.
 * [野狗](https://docs.wilddog.com/sync/Web/index.html) 实时通信引擎用法和功能和 Firebase 的数据存储相似。
 * [Leancloud](https://leancloud.cn/) 包括云存储、数据分析、用户关系、消息推送、即时通信等现代应用基础模块，满足移动开发所有需求。
 
+## 数据接口
+* [聚合数据](https://www.juhe.cn/service)
+
 ## 验证码识别
 * [Tesseract](https://github.com/tesseract-ocr/tesseract)
   

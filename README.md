@@ -212,3 +212,4 @@ Beautiful. Easy-to-use.
 
 ## 其他
 * [经纬度查询工具](http://www.gpsspg.com/maps.htm)
+* [Ten Minutes Mail](http://xzymoe.edu.pl/) 10分钟邮箱。 记得要激活才能用。

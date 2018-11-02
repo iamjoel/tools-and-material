@@ -214,3 +214,4 @@ Beautiful. Easy-to-use.
 * [经纬度查询工具](http://www.gpsspg.com/maps.htm)
 * [Ten Minutes Mail](http://xzymoe.edu.pl/) 10分钟邮箱。 记得要激活才能用。
 * [句子迷](https://www.juzimi.com/) 美句佳句。
+* [xClient](http://xclient.info) 软件破解。

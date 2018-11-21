@@ -191,6 +191,9 @@ Beautiful. Easy-to-use.
   * [API blueprint](https://apiblueprint.org/)
   * [JSONPlaceholder](https://jsonplaceholder.typicode.com/) 固定的几个资源 GET，POST，DELETE，PUT。
   * [JSON Server](https://github.com/typicode/json-server) 用 JSON 文件做为数据源。 可以试试线上的服务[My JSON Server](https://my-json-server.typicode.com/)。
+* 占位
+  * [placeholder](https://placeholder.com/) 占位图。
+  * [adorable](http://avatars.adorable.io) 头像占位。
 * 前端插件
   * [我整理的前端插件](https://github.com/iamjoel/front-end-plugins)
 * [Chrome 拓展非翻 墙地址](https://chrome-extension-downloader.com/)

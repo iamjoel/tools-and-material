@@ -137,19 +137,28 @@ Beautiful. Easy-to-use.
 * 文档
   * 印象笔记
   * [石墨文档](https://shimo.im/)
-* 原型图
-  * 墨刀
-* 代码管理
-  * [Coding.net](https://coding.net)
-* 协作
+  * [腾讯文档](https://docs.qq.com/desktop) 方便在微信中协同。
+* 知识库
+  * [Confluence](https://www.atlassian.com/software/confluence)
+* 协作&任务管理
   * [Slack](https://yedian.slack.com/) 
   * [Teambition](https://www.teambition.com/)
   * [Trello](https://trello.com/) 看板类型的。
   * Jira
   * 禅道
   * Redmine
-* 知识库
-  * [Confluence](https://www.atlassian.com/software/confluence)
+* 原型图
+  * 墨刀
+* 设计图
+  * [蓝湖](https://lanhuapp.com/) 方便标注，切图，关联页面之间的关系。支持上传 PS 和 Sketch的素材。
+* 代码版本管理
+  * [Coding.net](https://coding.net)
+* 部署
+  * SSH&FTP
+    * [FinalShell](http://www.hostbuf.com/) 支持 Mac， Windows。
+    * [Xshell](https://www.netsarang.com/products/xsh_overview.html) 只支持 Windows。
+  * 数据库
+    * [Navicat](https://navicat.com.cn/) 表结构的对比和同步。
 
 ## 设计&素材
 * 模板网站

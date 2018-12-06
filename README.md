@@ -148,7 +148,7 @@ Beautiful. Easy-to-use.
   * 禅道
   * Redmine
 * 原型图
-  * 墨刀
+  * [墨刀](https://modao.cc/)
 * 设计图
   * [蓝湖](https://lanhuapp.com/) 方便标注，切图，关联页面之间的关系。支持上传 PS 和 Sketch的素材。
 * 代码版本管理
@@ -161,11 +161,13 @@ Beautiful. Easy-to-use.
     * [Navicat](https://navicat.com.cn/) 表结构的对比和同步。
 
 ## 设计&素材
+* 设计网站
+  * [UI](https://www.ui.cn/)
 * 模板网站
   * [妹子UI 模板中心](http://tpl.amazeui.org/)
   * [模板之家](http://www.cssmoban.com/)
 * 图片
-  * [Unsplash](https://unsplash.com/) 提供可免費使用的高质量照片网站
+  * [Unsplash](https://unsplash.com/) 可免费使用的高质量照片网站
   * [Foodies Feed](https://foodiesfeed.com/crunchy-sunny-side-eggs-bacon/) 以「食物」为主题的免费摄影照片图库
   * [Cool Backgrounds](https://coolbackgrounds.io/) 生成很酷的背景图。
   * [picjumbo](https://picjumbo.com/)

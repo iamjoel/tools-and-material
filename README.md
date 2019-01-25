@@ -23,6 +23,7 @@ Beautiful. Easy-to-use.
 
 ## 商城系统
 * [Drupal Commerce](https://drupalcommerce.org/) 基于Drupal的电商解决方案.功能强大.免费+开源.
+* [mall](https://github.com/macrozheng/mall) 国人开源的。5k+ Star。
 * [Shopify](https://www.shopify.com/) 收费。上手快，无需技术背景。
 * [Shop++](http://www.shopplusplus.co.uk/) Java。
 * [更多](http://dig.tools/kj/) 下的独立网站类目。
@@ -147,6 +148,7 @@ Beautiful. Easy-to-use.
   * Jira
   * 禅道
   * Redmine
+  * [Zoom](http://zoom.cn/product/) 在线会议。
 * 原型图
   * [墨刀](https://modao.cc/)
 * 设计图

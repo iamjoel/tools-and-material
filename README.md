@@ -110,6 +110,7 @@ Beautiful. Easy-to-use.
 
 ## 了解人
 * 性格测试
+  * [MBTI职业性格测试](http://www.welefen.com/lab/mbti/)
   * [PDP动物性格测试](http://types.yuzeli.com/survey/pdp30) 老虎，孔雀，考拉，猫头鹰，变色龙。
   * [FPA乐嘉性格色彩测试](http://types.yuzeli.com/survey/fpa30)
 
@@ -141,10 +142,12 @@ Beautiful. Easy-to-use.
   * [腾讯文档](https://docs.qq.com/desktop) 方便在微信中协同。
 * 知识库
   * [Confluence](https://www.atlassian.com/software/confluence)
+* 脑图
+  * [百度脑图](http://naotu.baidu.com/)
 * 协作&任务管理
+  * [Trello](https://trello.com/) 看板类型的。
   * [Slack](https://yedian.slack.com/) 
   * [Teambition](https://www.teambition.com/)
-  * [Trello](https://trello.com/) 看板类型的。
   * Jira
   * 禅道
   * Redmine

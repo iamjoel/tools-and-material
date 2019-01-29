@@ -142,7 +142,7 @@ Beautiful. Easy-to-use.
   * [腾讯文档](https://docs.qq.com/desktop) 方便在微信中协同。
 * 知识库
   * [Confluence](https://www.atlassian.com/software/confluence)
-* 脑图
+* 思维导图
   * [百度脑图](http://naotu.baidu.com/)
 * 协作&任务管理
   * [Trello](https://trello.com/) 看板类型的。

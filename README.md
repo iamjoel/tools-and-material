@@ -183,6 +183,7 @@ Beautiful. Easy-to-use.
   * [gratisography](http://www.gratisography.com/)
   * [Subtle Patterns](http://subtlepatterns.com/) 带纹理的背景图片
   * [VEER](https://www.veer.com/) 一家免版税、国际化的图片提供商
+  * [昵图网](http://www.nipic.com/) 一个图片分享交流平台，网站以摄影、设计、多媒体数字视觉文件为主要内容，以“共享创造价值”为理念，以“尊重原创”为准则。
 * 图标
   * [阿里巴巴矢量图标库](http://www.iconfont.cn/)
 * 网站 ICON

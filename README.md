@@ -93,6 +93,9 @@ Beautiful. Easy-to-use.
 * [5188](http://www.5118.com/) 轻松掌控网站运营所需的关键数据。
 * [Wappalyzer](https://wappalyzer.com/) 查看网站用什么技术做的（如 WordPress（CMS框架），jQuery（前端框架），IIS（服务器操作系统））。有 Chrome 插件。
 
+## 产品
+* [人人都是产品经理](http://www.woshipm.com/category/pmd) 这里有很多产品设计的内容，支持搜索。
+
 ## 指数
 * [大数据导航](http://hao.199it.com/)
 * [阿里指数](https://index.1688.com/) 最权威专业的行业价格、供应、采购趋势分析

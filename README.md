@@ -235,6 +235,7 @@ Beautiful. Easy-to-use.
 * [缘创派](http://www.ycpai.com/) 项目合作。
 
 ## 日常
+* [habitica](https://habitica.com/) 用游戏化的方式，来形成好习惯和做任务管理的。带奖励机制。
 * [芝麻二维码收款](https://www.hotapp.cn/shouqian) 合并支付宝和微信的码。原理就是生成一个第三方的地址，当码被扫时，会调用第三方地址，并加些参数。通过参数来判断是被支付宝还是微信扫了。
 * POS机/套现
   * 拉卡拉
@@ -245,4 +246,6 @@ Beautiful. Easy-to-use.
 * [Ten Minutes Mail](http://xzymoe.edu.pl/) 10分钟邮箱。 记得要激活才能用。
 * [句子迷](https://www.juzimi.com/) 美句佳句。
 * [xClient](http://xclient.info) 软件破解。
-* [美洽](https://meiqia.com/) 第三方客服聊天工具。
+* 聊天
+  * [美洽](https://meiqia.com/) 第三方客服聊天工具。
+  * [百度商桥](https://qiao.baidu.com/) 多渠道咨询、智能客服接待、实时访客监控、全链条数据分析

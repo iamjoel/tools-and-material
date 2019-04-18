@@ -154,7 +154,10 @@ Beautiful. Easy-to-use.
   * Jira
   * 禅道
   * Redmine
-  * [Zoom](http://zoom.cn/product/) 在线会议。
+  * 在线会议
+    * [JITSI](https://meet.jit.si/) 免费的。支持共享桌面。
+    * [Zoom](http://zoom.cn/product/) 在线会议。成熟的产品。比较贵。
+
 * 原型图
   * [墨刀](https://modao.cc/)
 * 设计图

@@ -114,6 +114,7 @@ Beautiful. Easy-to-use.
 ## 了解人
 * 性格测试
   * [MBTI职业性格测试](http://www.welefen.com/lab/mbti/)
+  * [DISC个性测验](https://wiki.mbalib.com/wiki/DISC%E4%B8%AA%E6%80%A7%E6%B5%8B%E9%AA%8C)
   * [PDP动物性格测试](http://types.yuzeli.com/survey/pdp30) 老虎，孔雀，考拉，猫头鹰，变色龙。
   * [FPA乐嘉性格色彩测试](http://types.yuzeli.com/survey/fpa30)
 

@@ -243,8 +243,8 @@ Beautiful. Easy-to-use.
 * 信息推送
   * [U-Push](https://www.umeng.com/push) 友盟的信息推送。
   * [极光推送](https://www.jiguang.cn/push)
-* 异常上报
-  * [Bugly](https://bugly.qq.com/v2/)
+* 异常上报,奔溃日志
+  * [Bugly](https://bugly.qq.com/v2/) 腾讯出品。
 
 ## 服务器
 * [Ping++](https://www.pingxx.com/products) 方便接入支付。

@@ -15,6 +15,7 @@
 ## CRM
 * [odoo](https://www.odoo.com/) All-in-one management software. 
 Beautiful. Easy-to-use.
+* [悟空CRM](http://www.5kcrm.com/index.php) 会有开源版本。 [云平台](http://www.72crm.com/)
 
 ## 论坛系统
 * [Discuz](http://www.discuz.net/forum.php) PHP。
@@ -166,6 +167,7 @@ Beautiful. Easy-to-use.
 * 代码版本管理
   * [Coding.net](https://coding.net)
 * 数据库
+  * [PDMan](https://gitee.com/robergroup/pdman) 是一款开源免费的数据库模型建模工具，支持Windows,Mac,Linux等操作系统，是PowerDesigner之外，更好的免费的替代方案。
   * [Yearning](https://github.com/cookieY/Yearning) Mysql web端sql审核平台
 * 部署
   * SSH&FTP
@@ -174,9 +176,12 @@ Beautiful. Easy-to-use.
   * 数据库
     * [Navicat](https://navicat.com.cn/) 表结构的对比和同步。
 
-## 代码库
+## 代码市场
+* [开源中国-开源软件](https://www.oschina.net/project)
+* [码云-开源项目](https://gitee.com/explore) OS China。
 * 小程序
   * [小程序窝](http://www.xcxwo.com/cate/component)
+* 代码交易平台
 
 ## 设计&素材
 * 设计网站
@@ -232,9 +237,14 @@ Beautiful. Easy-to-use.
 * [Chrome 拓展非翻 墙地址](https://chrome-extension-downloader.com/)
 
 ## APP
-* 内测
+* 内测/APP 发布
   * [蒲公英](https://www.pgyer.com/)
   * [fir.im](https://fir.im/)
+* 信息推送
+  * [U-Push](https://www.umeng.com/push) 友盟的信息推送。
+  * [极光推送](https://www.jiguang.cn/push)
+* 异常上报
+  * [Bugly](https://bugly.qq.com/v2/)
 
 ## 服务器
 * [Ping++](https://www.pingxx.com/products) 方便接入支付。

@@ -158,7 +158,6 @@ Beautiful. Easy-to-use.
   * 在线会议
     * [JITSI](https://meet.jit.si/) 免费的。支持共享桌面。
     * [Zoom](http://zoom.cn/product/) 在线会议。成熟的产品。比较贵。
-
 * 原型图
   * [墨刀](https://modao.cc/)
 * 设计图
@@ -174,6 +173,10 @@ Beautiful. Easy-to-use.
     * [Xshell](https://www.netsarang.com/products/xsh_overview.html) 只支持 Windows。
   * 数据库
     * [Navicat](https://navicat.com.cn/) 表结构的对比和同步。
+
+## 代码库
+* 小程序
+  * [小程序窝](http://www.xcxwo.com/cate/component)
 
 ## 设计&素材
 * 设计网站
@@ -227,6 +230,14 @@ Beautiful. Easy-to-use.
 * 前端插件
   * [我整理的前端插件](https://github.com/iamjoel/front-end-plugins)
 * [Chrome 拓展非翻 墙地址](https://chrome-extension-downloader.com/)
+
+## APP
+* 内测
+  * [蒲公英](https://www.pgyer.com/)
+  * [fir.im](https://fir.im/)
+
+## 服务器
+* [Ping++](https://www.pingxx.com/products) 方便接入支付。
 
 ## 微信公众号编辑器
 * [秀米](https://xiumi.us/#/) 富文本。

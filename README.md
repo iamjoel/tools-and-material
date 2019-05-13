@@ -245,6 +245,8 @@ Beautiful. Easy-to-use.
   * [极光推送](https://www.jiguang.cn/push)
 * 异常上报,奔溃日志
   * [Bugly](https://bugly.qq.com/v2/) 腾讯出品。
+* 云真机租用
+  * [百度MTC](http://mtc.baidu.com/tinypace/mobileCloudy/) 大概 1元/分钟（19年5月份）。
 
 ## 服务器
 * [Ping++](https://www.pingxx.com/products) 方便接入支付。

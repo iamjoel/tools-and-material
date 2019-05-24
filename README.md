@@ -178,6 +178,8 @@ Beautiful. Easy-to-use.
     * [Xshell](https://www.netsarang.com/products/xsh_overview.html) 只支持 Windows。
   * 数据库
     * [Navicat](https://navicat.com.cn/) 表结构的对比和同步。
+* 视频
+  * [Apowersoft在线录屏](https://www.apowersoft.cn/free-online-screen-recorder)
 
 ## 代码市场
 * [开源中国-开源软件](https://www.oschina.net/project)

@@ -180,6 +180,8 @@ Beautiful. Easy-to-use.
     * [Navicat](https://navicat.com.cn/) 表结构的对比和同步。
 * 视频
   * [Apowersoft在线录屏](https://www.apowersoft.cn/free-online-screen-recorder)
+* 其他
+  * [腾讯柠檬清理](https://mac.gj.qq.com/) 释放 Mac 磁盘空间。
 
 ## 代码市场
 * [开源中国-开源软件](https://www.oschina.net/project)

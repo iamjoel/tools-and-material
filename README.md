@@ -263,9 +263,10 @@ Beautiful. Easy-to-use.
 * [公众号 Phodal 专用编辑器](http://md.phodal.com/) Markdown。
 * [135编辑器](https://www.135editor.com/)
 
-## 兼职机会
+## 兼职&发布项目
 * [实现网](https://shixian.com/)
 * [一早一晚](http://yizaoyiwan.com/) 远程工作。
+* [程序员客栈](https://www.proginn.com/)
 * [缘创派](http://www.ycpai.com/) 项目合作。
 
 ## 日常

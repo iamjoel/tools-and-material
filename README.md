@@ -29,8 +29,8 @@ Beautiful. Easy-to-use.
 * [Shop++](http://www.shopplusplus.co.uk/) Java。
 * [更多](http://dig.tools/kj/) 下的独立网站类目。
 * 平台
-  * [有赞云](https://www.youzanyun.com/) 功能很全。支持 Node.js 的 SDK。有赞也有很赞的开源 前端框架 框架。
-  * [微店](https://www.weidian.com/) 微信开店。 [开放平台](https://web.open.weidian.com/index)。可以试试做个导购平台~
+  * [有赞云](https://www.youzanyun.com/) 功能很全。可以添加拓展点，在标准的流程里，插入定制的流程。可以给商家做一些服务工具。支持 Node.js 的 SDK。有赞也有很赞的开源 前端框架 框架。
+  * [微店开发平台](https://web.open.weidian.com/index?spider_token=d8e8) 微信开店。 [开放平台](https://web.open.weidian.com/index)。可以试试做个导购平台~
 * 亚马逊无货源ERP
   * [易境ERP](http://yijingerp.com/) 
 自动化一键采集淘宝、京东、天猫、Ebay、速卖通、1688货源、兰亭、新蛋等平台商品，自动化采集，生成亚马逊所需要的格式转换，商品信息修改只需要在系统内完成修改，自动化同步货源商品。所有商品信息，后台内编辑修改导出，销售货物，订单信息后台一目了然，下单自动同步物流信息，随时查看物流动态后台简单操作，无需自己发货，直接购买商品，发货交给我们处理，无需自己手动处理发货问题，省时省力。
@@ -250,13 +250,20 @@ Beautiful. Easy-to-use.
 * 信息推送
   * [U-Push](https://www.umeng.com/push) 友盟的信息推送。
   * [极光推送](https://www.jiguang.cn/push)
+* 即时通讯
+  * [环信](http://www.easemob.com/) 即时通讯云，客服云，音频云。。。
 * 异常上报,奔溃日志
   * [Bugly](https://bugly.qq.com/v2/) 腾讯出品。
 * 云真机租用
   * [百度MTC](http://mtc.baidu.com/tinypace/mobileCloudy/) 大概 1元/分钟（19年5月份）。
 
-## 服务器
-* [Ping++](https://www.pingxx.com/products) 方便接入支付。
+## 第三方服务
+* 支付
+  * [Ping++](https://www.pingxx.com/products) 方便接入支付。
+  * 空中分账
+* 聊天
+  * [美洽](https://meiqia.com/) 第三方客服聊天工具。
+  * [百度商桥](https://qiao.baidu.com/) 多渠道咨询、智能客服接待、实时访客监控、全链条数据分析
 
 ## 微信公众号编辑器
 * [秀米](https://xiumi.us/#/) 富文本。
@@ -281,6 +288,3 @@ Beautiful. Easy-to-use.
 * [Ten Minutes Mail](http://xzymoe.edu.pl/) 10分钟邮箱。 记得要激活才能用。
 * [句子迷](https://www.juzimi.com/) 美句佳句。
 * [xClient](http://xclient.info) 软件破解。
-* 聊天
-  * [美洽](https://meiqia.com/) 第三方客服聊天工具。
-  * [百度商桥](https://qiao.baidu.com/) 多渠道咨询、智能客服接待、实时访客监控、全链条数据分析

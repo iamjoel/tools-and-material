@@ -170,6 +170,7 @@ Beautiful. Easy-to-use.
 * 代码版本管理
   * [Coding.net](https://coding.net)
 * 数据库
+  * [SQLEditor](https://xclient.info/s/sqleditor.html) 支持 Mac的数据库模型建模工具。很好用，唯一的缺点是，不支持表的模板（PDMan） 中没有。
   * [PDMan](https://gitee.com/robergroup/pdman) 是一款开源免费的数据库模型建模工具，支持Windows,Mac,Linux等操作系统，是PowerDesigner之外，更好的免费的替代方案。
   * [Yearning](https://github.com/cookieY/Yearning) Mysql web端sql审核平台
 * 部署

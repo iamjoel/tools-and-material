@@ -13,6 +13,7 @@
 * [Exploring Different CMS Solutions Built on Node.js](https://www.sitepoint.com/exploring-different-cms-solutions-built-on-node-js/)
 
 ## CRM
+* [分享销客](https://www.fxiaoke.com/)
 * [odoo](https://www.odoo.com/) All-in-one management software. 
 Beautiful. Easy-to-use.
 * [悟空CRM](http://www.5kcrm.com/index.php) 会有开源版本。 [云平台](http://www.72crm.com/)
@@ -67,6 +68,10 @@ Beautiful. Easy-to-use.
 ## 验证码识别
 * [Tesseract](https://github.com/tesseract-ocr/tesseract)
   
+
+## 打印
+* [易联云](https://www.yilianyun.net/) 带打印机。
+
 ## 分词
 * [NodeJieba](https://github.com/yanyiwu/nodejieba) NodeJieba是"结巴"中文分词的 Node.js 版本实现
 

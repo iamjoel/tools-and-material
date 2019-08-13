@@ -14,6 +14,8 @@
 
 ## CRM
 * [分享销客](https://www.fxiaoke.com/)
+* [销售易](http://www.xiaoshouyi.com/)
+* [Microsoft Dynamics](https://dynamics.microsoft.com/zh-cn/dynamics-crm/) 微软出品。
 * [odoo](https://www.odoo.com/) All-in-one management software. 
 Beautiful. Easy-to-use.
 * [悟空CRM](http://www.5kcrm.com/index.php) 会有开源版本。 [云平台](http://www.72crm.com/)
@@ -35,6 +37,10 @@ Beautiful. Easy-to-use.
 * 亚马逊无货源ERP
   * [易境ERP](http://yijingerp.com/) 
 自动化一键采集淘宝、京东、天猫、Ebay、速卖通、1688货源、兰亭、新蛋等平台商品，自动化采集，生成亚马逊所需要的格式转换，商品信息修改只需要在系统内完成修改，自动化同步货源商品。所有商品信息，后台内编辑修改导出，销售货物，订单信息后台一目了然，下单自动同步物流信息，随时查看物流动态后台简单操作，无需自己发货，直接购买商品，发货交给我们处理，无需自己手动处理发货问题，省时省力。
+* XShop 基于Java，朋友公司做的一套商城。
+
+## 财务系统
+* [GnuCash](https://gnucash.org/) 开源的。[GitHub](https://github.com/Gnucash/gnucash)
 
 ## 数据爬取
 * 软件

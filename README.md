@@ -19,6 +19,8 @@
 * [odoo](https://www.odoo.com/) All-in-one management software. 
 Beautiful. Easy-to-use.
 * [悟空CRM](http://www.5kcrm.com/index.php) 会有开源版本。 [云平台](http://www.72crm.com/)
+* 教育
+  * [校管家](https://www.xiaogj.com/index.html)
 
 ## 论坛系统
 * [Discuz](http://www.discuz.net/forum.php) PHP。

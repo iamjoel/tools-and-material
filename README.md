@@ -129,7 +129,7 @@ Beautiful. Easy-to-use.
 * 新媒体指数（http://www.gsdata.cn/）
 
 ## 了解企业
-* [国家企业信用信息公示系统（江苏）](http://js.gsxt.gov.cn/subPubSys-320000.html)
+* [国家企业信用信息公示系统](http://www.gsxt.gov.cn/index.html)
 * [天眼查](https://www.tianyancha.com/)
 * [企查查](http://www.qichacha.com/)
 * [看准网](http://www.kanzhun.com/)

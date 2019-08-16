@@ -40,6 +40,8 @@ Beautiful. Easy-to-use.
   * [易境ERP](http://yijingerp.com/) 
 自动化一键采集淘宝、京东、天猫、Ebay、速卖通、1688货源、兰亭、新蛋等平台商品，自动化采集，生成亚马逊所需要的格式转换，商品信息修改只需要在系统内完成修改，自动化同步货源商品。所有商品信息，后台内编辑修改导出，销售货物，订单信息后台一目了然，下单自动同步物流信息，随时查看物流动态后台简单操作，无需自己发货，直接购买商品，发货交给我们处理，无需自己手动处理发货问题，省时省力。
 * XShop 基于Java，朋友公司做的一套商城。
+* 快递单电子面单打印
+  * [快递鸟](http://www.kdniao.com/) 接入了主流的物流公司。不用去对接一家家的打印公司了。
 
 ## 财务系统
 * [GnuCash](https://gnucash.org/) 开源的。[GitHub](https://github.com/Gnucash/gnucash)
@@ -78,6 +80,7 @@ Beautiful. Easy-to-use.
 ## 验证码识别
 * [Tesseract](https://github.com/tesseract-ocr/tesseract)
   
+
 
 ## 打印
 * [易联云](https://www.yilianyun.net/) 带打印机。

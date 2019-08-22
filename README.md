@@ -18,6 +18,7 @@
 * [Microsoft Dynamics](https://dynamics.microsoft.com/zh-cn/dynamics-crm/) 微软出品。
 * [odoo](https://www.odoo.com/) All-in-one management software. 
 Beautiful. Easy-to-use.
+* [Zoho CRM](https://www.zoho.com.cn/)
 * [悟空CRM](http://www.5kcrm.com/index.php) 会有开源版本。 [云平台](http://www.72crm.com/)
 * 教育
   * [校管家](https://www.xiaogj.com/index.html)

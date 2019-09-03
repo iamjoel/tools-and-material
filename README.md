@@ -306,6 +306,7 @@ Beautiful. Easy-to-use.
 * POS机/套现
   * 拉卡拉
   * 盒子支付
+* [全历史](https://www.allhistory.com/) 查历史资料，超级方便。
 
 ## 其他
 * [经纬度查询工具](http://www.gpsspg.com/maps.htm)

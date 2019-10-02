@@ -47,6 +47,9 @@ Beautiful. Easy-to-use.
 ## 财务系统
 * [GnuCash](https://gnucash.org/) 开源的。[GitHub](https://github.com/Gnucash/gnucash)
 
+## 固定资产管理软件
+* [易盘点](https://www.epandian.cn/)
+
 ## 数据爬取
 * 软件
   * [火车头](http://www.locoy.com/)

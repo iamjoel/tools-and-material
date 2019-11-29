@@ -310,6 +310,7 @@ Beautiful. Easy-to-use.
   * 拉卡拉
   * 盒子支付
 * [全历史](https://www.allhistory.com/) 查历史资料，超级方便。
+* [个人所得税工具](https://www.gerensuodeshui.cn/)
 
 ## 其他
 * [经纬度查询工具](http://www.gpsspg.com/maps.htm)

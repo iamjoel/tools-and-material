@@ -46,6 +46,8 @@ Beautiful. Easy-to-use.
 
 ## 财务系统
 * [GnuCash](https://gnucash.org/) 开源的。[GitHub](https://github.com/Gnucash/gnucash)
+* 金蝶
+* 用友
 
 ## 固定资产管理软件
 * [易盘点](https://www.epandian.cn/)
@@ -202,6 +204,8 @@ Beautiful. Easy-to-use.
     * [Xshell](https://www.netsarang.com/products/xsh_overview.html) 只支持 Windows。
   * 数据库
     * [Navicat](https://navicat.com.cn/) 表结构的对比和同步。
+* 图片
+  * [Monosnap](https://monosnap.com/) 截图和标注。
 * 视频
   * [Apowersoft在线录屏](https://www.apowersoft.cn/free-online-screen-recorder)
 * 其他

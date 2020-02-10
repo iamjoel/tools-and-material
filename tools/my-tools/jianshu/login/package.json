@@ -1,0 +1,14 @@
+{
+  "name": "login",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "Joel",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^1.15.0"
+  }
+}

@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>{author}的文章</title>
+  <style>
+    body {
+      margin: 0;
+    }
+    #app {
+      display: flex;
+    }
+    .menu {
+      padding: 25px 15px;
+      width: 300px;
+      max-height: 100vh;
+      overflow-y: auto;
+      background-color: #ddd;
+    }
+    .content {
+      flex-grow: 1;
+      text-align: center;
+      max-height: 100vh;
+      overflow-y: auto;
+    }
+    .selected {
+      color: #f60;
+    }
+  </style>
+</head>
+<body>
+  <div id="app">
+    <div class="menu">
+      <div v-for="(item, i) in list">
+        <h2>{{item.categoryName}}</h2>
+        <ul>
+          <li
+            v-for="(article, j) in item.articleList"
+          >
+            <a 
+              href="javascript:void(0);"
+              @click="choose(article)"
+              :class="{
+                selected: article.id === currId
+              }"
+            >
+              {{article.title}}
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+    
+    <div class="content">
+      <img :src="'article/' + curr" alt="">
+    </div>
+  </div>
+  <script src="https://cdn.jsdelivr.net/npm/vue"></script>
+  <script>
+    {
+      /* 
+      * list 格式
+      * [{categoryName: 'xx', articleList: [{id: '',title: ''},...]}...]
+      */
+      var list = {data}
+
+      new Vue({
+        el: '#app',
+        data: {
+          message: 'aaaa',
+          list,
+          curr: `${list[0].articleList[0].title.replace(/\//g, '_')}.png`,
+          currId: list[0].articleList[0].id
+        },
+        methods: {
+          choose(article) {
+            this.curr = `${article.title.replace(/\//g, '_')}.png`
+            this.currId = article.id
+            document.querySelector('.content').scrollTop = 0
+          }
+        }
+      })
+    }
+  </script>
+</body>
+</html>

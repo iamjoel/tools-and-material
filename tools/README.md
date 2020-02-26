@@ -263,6 +263,7 @@ Beautiful. Easy-to-use.
   * [Fiddler](https://www.telerik.com/fiddler) 修改线上 Bug。用 Auto Response 来用本地文件替换线上文件。
 * Mock 服务
   * [Easy Mock](https://github.com/easy-mock/easy-mock) Easy Mock 是一个可视化，并且能快速生成模拟数据的持久化服务。生成随机模拟数据，内置了 Mock.js。依赖 Mongo。支持 [Swagger](https://swagger.io/)。
+  * [YApi](https://github.com/YMFE/yapi) 可视化接口管理平台。支持Mock数据，接口直接调用，自动化测试。
   * [Swagger](https://swagger.io/)
   * [API blueprint](https://apiblueprint.org/)
   * [JSONPlaceholder](https://jsonplaceholder.typicode.com/) 固定的几个资源 GET，POST，DELETE，PUT。

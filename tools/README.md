@@ -194,6 +194,8 @@ Beautiful. Easy-to-use.
   * [蓝湖](https://lanhuapp.com/) 方便标注，切图，关联页面之间的关系。支持上传 PS 和 Sketch的素材。
 * 代码版本管理
   * [Coding.net](https://coding.net)
+* 代码质量和安全
+  * [SonarQube](https://www.sonarqube.org/) 字节跳动有部门用。
 * 数据库
   * [SQLEditor](https://xclient.info/s/sqleditor.html) 支持 Mac的数据库模型建模工具。很好用，唯一的缺点是，不支持表的模板（PDMan） 中没有。
   * [PDMan](https://gitee.com/robergroup/pdman) 是一款开源免费的数据库模型建模工具，支持Windows,Mac,Linux等操作系统，是PowerDesigner之外，更好的免费的替代方案。

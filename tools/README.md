@@ -302,6 +302,9 @@ Beautiful. Easy-to-use.
 * 云真机租用
   * [百度MTC](http://mtc.baidu.com/tinypace/mobileCloudy/) 大概 1元/分钟（19年5月份）。
 
+## DevOps
+* [Ledge](https://devops.phodal.com/design) phodal 在的 ThoughtWorks 搞的。
+
 ## 第三方服务
 * 支付
   * [Ping++](https://www.pingxx.com/products) 方便接入支付。

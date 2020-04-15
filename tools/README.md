@@ -224,6 +224,12 @@ Beautiful. Easy-to-use.
 * 其他
   * [腾讯柠檬清理](https://mac.gj.qq.com/) 释放 Mac 磁盘空间。
 
+## 持续集成 CI
+* [Jenkins](https://jenkins.io/zh/)
+* [drone](https://drone.io/)
+* [Circle CI](https://circleci.com/)
+* [Travis CI](https://travis-ci.org/)
+
 ## 企业第三方服务
 * [企服服](https://www.qifufu.com/) 企查查旗下。服务包括 工商注册，财务记账，商标知识产权，人事社保，法律服务等。
 

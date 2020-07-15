@@ -184,6 +184,7 @@ Beautiful. Easy-to-use.
   * 印象笔记
   * [石墨文档](https://shimo.im/)
   * [腾讯文档](https://docs.qq.com/desktop) 方便在微信中协同。
+  * [notion](https://www.notion.so/)
 * 知识库
   * [Confluence](https://www.atlassian.com/software/confluence)
 * 思维导图

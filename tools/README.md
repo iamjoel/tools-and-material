@@ -204,6 +204,7 @@ Beautiful. Easy-to-use.
 * 设计图
   * [imgCook(图像大厨)](https://imgcook.taobao.org/) 阿里出品。根据设计稿生成代码。代码形式支持 小程序、React、H5、Weex Rax。
   * [蓝湖](https://lanhuapp.com/) 方便标注，切图，关联页面之间的关系。支持上传 PS 和 Sketch的素材。
+  * [Figma](https://www.figma.com/) 基于浏览器的 UI 设计工具。用法和 Sketch 很像，支持版本管理，方便协同。
 * 代码版本管理
   * [Coding.net](https://coding.net)
 * 代码质量和安全

@@ -245,6 +245,7 @@ Beautiful. Easy-to-use.
 ## 设计&素材
 * 设计网站
   * [UI](https://www.ui.cn/)
+  * [UI Collect](http://collectui.com/) 对不同类型的页面分门别类。
 * 模板网站
   * [妹子UI 模板中心](http://tpl.amazeui.org/)
   * [模板之家](http://www.cssmoban.com/)

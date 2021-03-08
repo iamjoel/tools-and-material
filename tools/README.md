@@ -351,3 +351,4 @@ Beautiful. Easy-to-use.
 * [句子迷](https://www.juzimi.com/) 美句佳句。
 * [xClient](http://xclient.info) 软件破解。
 * [carbon](https://carbon.now.sh/) 代码分享工具。可将代码生成图片。
+* [Screenity: Chrome 录屏神器](https://mp.weixin.qq.com/s/P1mo38aCVDzte298APUpWg)

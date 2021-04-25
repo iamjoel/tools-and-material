@@ -225,7 +225,7 @@ Beautiful. Easy-to-use.
   * [Apowersoft在线录屏](https://www.apowersoft.cn/free-online-screen-recorder)
 * 其他
   * [腾讯柠檬清理](https://mac.gj.qq.com/) 释放 Mac 磁盘空间。
-  * [SwitchHosts](https://github.com/oldj/SwitchHosts/blob/master/README_cn.md)
+  * [SwitchHosts](https://github.com/oldj/SwitchHosts/blob/master/README_cn.md) 快速切换 hosts 工具。
 
 ## 持续集成 CI
 * [Jenkins](https://jenkins.io/zh/)
